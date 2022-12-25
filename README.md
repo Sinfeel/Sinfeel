@@ -54,7 +54,7 @@ I also work as a FreeLancer 🆓.
 <br />
 <br />
 
-[instagram]: [https://www.instagram.com/ibrahim_talha_demir](https://www.instagram.com/mstafa.3455/)
+[instagram]: https://www.instagram.com/mstafa.3455/
 [linkedin]: https://www.linkedin.com/in/mustafakaraman55
 [gmail]: mailto:mustafa.karaman5534@gmail.com
 [vsCode]: https://code.visualstudio.com/
