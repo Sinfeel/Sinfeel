@@ -29,6 +29,13 @@ I also work as a FreeLancer 🆓.
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
+[<img align="left" alt="c#" width="26px"
+      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACsharp_Logo.png&psig=AOvVaw0kUNLATx4wLKuKjXONN4NP&ust=1672086004983000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPixjvXLlfwCFQAAAAAdAAAAABAE
+" />][c#]
+
+
+
+
 
 
 
@@ -53,3 +60,4 @@ I also work as a FreeLancer 🆓.
 [git]: https://git-scm.com/
 [github]: https://github.com/Sinfeel
 [python]: https://www.python.org/
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
