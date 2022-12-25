@@ -16,7 +16,6 @@ I also work as a FreeLancer 🆓.
 ### 📩 Contact with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
@@ -29,7 +28,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/c#.png" />][c#]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c#/c#.png" />][c#]
 
 
 
@@ -44,13 +43,6 @@ I also work as a FreeLancer 🆓.
 <br />
 <br />
 <br />
-
-
-### GitHub Analytics 📊
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
-
 <br />
 <br />
 
